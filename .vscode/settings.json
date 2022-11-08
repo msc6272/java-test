@@ -5,7 +5,7 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "Aula",
+            "name": "auladb_conn",
             "group": "Aula",
             "database": "auladb",
             "username": "postgres",
@@ -16,9 +16,20 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "Aula",
+            "name": "postgres_conn",
             "group": "Aula",
             "database": "postgres",
+            "username": "postgres",
+            "password": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "financas_conn",
+            "group": "Aula",
+            "database": "financas",
             "username": "postgres",
             "password": "postgres"
         }
