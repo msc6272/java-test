@@ -10,5 +10,9 @@
             "username": "postgres",
             "password": "postgres"
         }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/junit-platform-console-standalone-1.9.1.jar",
+        "Digital-Bank/lib/junit-platform-console-standalone-1.9.1.jar"
     ]
 }
